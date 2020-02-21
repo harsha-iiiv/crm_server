@@ -1,0 +1,36 @@
+{
+  "name": "crm_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harsha-iiiv/crm_server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harsha-iiiv/crm_server/issues"
+  },
+  "homepage": "https://github.com/harsha-iiiv/crm_server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dateformat": "^3.0.3",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "i": "^0.3.6",
+    "imap": "^0.8.19",
+    "imap-simple": "^4.3.0",
+    "loadsh": "0.0.4",
+    "lodash": "^4.17.15",
+    "mail-listener2": "^0.3.1",
+    "mailparser": "^2.7.7",
+    "mongoose": "^5.9.1",
+    "nodemailer": "^6.4.2",
+    "nodemon": "^2.0.2",
+    "npm": "^6.13.7"
+  }
+}

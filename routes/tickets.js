@@ -15,8 +15,8 @@ process.env["NODE_TLS_REJECT_UNAUTHORIZED"] = 0;
 console.log(process.env.EMAIL_ADDRESS);
 var config = {
   imap: {
-    user: "cem.iiitv@gmail.com",
-    password: "CEM@201752039",
+    user: "process.env.EMAIL_ADDRESS",
+    password: "process.env.EMAIL_PASSWORD",
     host: "imap.gmail.com",
     port: 993,
     tls: true,

@@ -25,7 +25,7 @@
     "imap": "^0.8.19",
     "imap-simple": "^4.3.0",
     "loadsh": "0.0.4",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "mail-listener2": "^0.3.1",
     "mailparser": "^2.7.7",
     "mongoose": "^5.9.1",

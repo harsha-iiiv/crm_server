@@ -29,7 +29,7 @@
     "mail-listener2": "^0.3.1",
     "mailparser": "^2.7.7",
     "mongoose": "^5.9.1",
-    "nodemailer": "^6.4.2",
+    "nodemailer": "^6.4.16",
     "nodemon": "^2.0.2",
     "npm": "^6.13.7"
   }
